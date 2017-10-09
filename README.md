@@ -2,6 +2,8 @@
 
 This was our winning submission for the 2017 Horizons School of Technology Hackathon
 
+[Demo Video](https://www.youtube.com/watch?v=9CfLI9RGL14) 
+
 ## Deployment
 
 Install the latest version of python on your system
